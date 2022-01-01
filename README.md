@@ -1,2 +1,2 @@
 # jsontransaction
-Serve a JSON containing a list of transactions in the following deployed contract on the BSC network
+Convert CVS transaction file in BSC network to JSON format and save it in a file with Go language
